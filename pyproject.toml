@@ -1,0 +1,16 @@
+[project]
+name = "voice-assistant"
+version = "0.1.0"
+description = "A simple voice assistant using LiveKit, Cartesia, OpenAI, and Silero"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "livekit-agents>=0.12.16",
+    "livekit>=0.20.4",
+    "python-dotenv>=1.0.1",
+    "openai>=1.65.2",
+    "cartesia>=0.1.0",
+    "livekit-plugins-cartesia>=0.4.8",
+    "livekit-plugins-openai>=0.11.0",
+    "livekit-plugins-silero>=0.7.4",
+]
