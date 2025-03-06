@@ -40,7 +40,7 @@ async def entrypoint(ctx: JobContext):
         stt=openai.STT(),
         llm=llm,
         tts=cartesia.TTS(
-            model="sonic",
+            model="sonic-preview",
             voice="794f9389-aac1-45b6-b726-9d9369183238",
         ),
         chat_ctx=chat_context,
