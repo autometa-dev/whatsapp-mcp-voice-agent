@@ -93,4 +93,4 @@ Once the assistant is running, you can load the [LiveKit Agents Playground](http
 
 ---
 
-*Note: This README assumes you have `uv` installed and configured in your system PATH.*
+*Note: This README assumes you have `uv` installed and configured in your system PATH.*"# Whatsapp-mcp-voice-agent"
